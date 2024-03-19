@@ -24,6 +24,6 @@ before_compression：为压缩前的字体目录，备份用
 
 font：压缩完的字体，压缩前需要把字体放入该目录，
 
-​    .font-spider：执行fsp local index/font.html命令后备份字体的目录
+​    ->.font-spider：执行fsp local index/font.html命令后备份字体的目录
 
 index：转换和测试的html
